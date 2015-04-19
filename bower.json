@@ -1,0 +1,19 @@
+{
+  "name": "backbone.googlemaps-with-infobox",
+  "version": "0.0.0",
+  "authors": [
+    "foo9 <fu9fu9fu9@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "google-maps-utility-library-v3-read-only": "https://github.com/printercu/google-maps-utility-library-v3-read-only.git",
+    "backbone.googlemaps": "https://github.com/eschwartz/backbone.googlemaps.git"
+  }
+}
